@@ -6,8 +6,9 @@
 - 🔥 Currently working for infrastructure automation project on AWS
 - 🌱 Learning in progress - IaC (Terraform) + Go programming
 
-#### 📫 Lets get in touch  
-- E-mail: [edfazli92@gmail.com](edfazli92@gmail.com)
+#### ✍️ Lets get in touch  
+- 📧 E-mail: [edfazli92@gmail.com](edfazli92@gmail.com)
+- :octocat: Github: [EdFazli](https://github.com/EdFazli)
 
 ### Tech Stack  
   
