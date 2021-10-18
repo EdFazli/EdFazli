@@ -14,4 +14,4 @@
 
 | 📂 **Projects** | 🧰 **Tools** |
 |-|-|
-| [![Infrastructure as A Code](https://img.shields.io/static/v1?label=Infrastructure-As-A-Code&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/EdFazli) | [![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=blueviolet&logo=terraform&logoColor=FFFFFF)](https://www.terraform.io/) [![Terragrunt](https://img.shields.io/static/v1?label=&message=Terraform&color=0dc0ef&logo=terragrunt&logoColor=FFFFFF)](https://terragrunt.gruntwork.io/) |
+| [![Infrastructure as A Code](https://img.shields.io/static/v1?label=Infrastructure-As-A-Code&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/EdFazli) | [![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=blueviolet&logo=terraform&logoColor=FFFFFF)](https://www.terraform.io/) [![Terragrunt](https://img.shields.io/static/v1?label=&message=Terragrunt&color=0dc0ef&logo=terragrunt&logoColor=FFFFFF)](https://terragrunt.gruntwork.io/) |
