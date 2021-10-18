@@ -16,7 +16,7 @@
 | 📂 **Projects** | ⚙️ **Tools** |
 |-|-|
 | [![Infrastructure as A Code](https://img.shields.io/static/v1?label=Infrastructure-As-A-Code&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/EdFazli) | [![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=blueviolet&logo=terraform&logoColor=FFFFFF)](https://www.terraform.io/) [![Terragrunt](https://img.shields.io/static/v1?label=&message=Terragrunt&color=0dc0ef&logo=terragrunt&logoColor=FFFFFF)](https://terragrunt.gruntwork.io/) [![Azure](https://img.shields.io/static/v1?label=&message=AzureDevOps&color=blue&logo=microsoft&logoColor=00a4ef)](https://azure.microsoft.com/en-us/services/devops/#overview) [![VSCode](https://img.shields.io/static/v1?label=&message=VisualStudioCode&color=347ebd&logo=visualstudio&logoColor=00a4ef)](https://code.visualstudio.com/)|
-| [![Learning GO](https://img.shields.io/static/v1?label=LearningGO&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/EdFazli) | [![GO](https://img.shields.io/static/v1?label&message=GO&color=5bc0de&logo=go&logoColor=5bc0de)](https://golang.org/)|
+| [![Learning GO](https://img.shields.io/static/v1?label=LearningGO&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/EdFazli) | [![GO](https://img.shields.io/static/v1?label&message=GO&color=FFFFFF&logo=go&logoColor=5bc0de)](https://golang.org/)|
   
 ### ✨ Certification  
   
