@@ -14,4 +14,4 @@
 
 | 📂 **Projects** | 🧰 **Tools** |
 |-|-|
-| [![IaC on AWS](https://img.shields.io/?style=plastic&logo=appveyor)] | [![Terraform](https://img.shields.io/?style=plastic&logo=appveyor)](https://www.terraform.io/) |
+| [![Infrastructure as A Code](https://img.shields.io/static/v1?label=Infrastructure as a Code&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/EdFazli) | [![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=blueviolet&logo=terraform&logoColor=FFFFFF)](https://www.terraform.io/) |
