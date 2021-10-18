@@ -9,7 +9,7 @@
 
 - 🏢 I'm an IT Support Engineer (OPS) in Johor, Malaysia
 - 🔥 Currently working for infrastructure automation project on AWS
-- 🌱 Learning in progress - IaC (Terraform) + Go programming
+- 🌱 Learning in progress - IaC (Terraform) + GO programming
 
 #### ✍️ Lets get in touch  
 - 📧 E-mail: [edfazli92@gmail.com](edfazli92@gmail.com)
