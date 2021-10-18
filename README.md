@@ -1,5 +1,9 @@
 ## Hi there. EdFazli here 👋  
   
+![AWS](https://img.shields.io/badge/AWS-Associate-yellow)
+![Terraform](https://img.shields.io/badge/Terraform-Beginner-blueviolet)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-Beginner-0dc0ef)
+  
 #### Passionate on AWS Cloud and DevOps  
 
 - 🏢 I'm an IT Support Engineer (OPS) in Johor, Malaysia
