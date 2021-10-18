@@ -12,7 +12,7 @@
 
 #### ✍️ Lets get in touch  
 - 📧 E-mail: [edfazli92@gmail.com](edfazli92@gmail.com)
-- :octocat: Github: [github.com/EdFazli](https://github.com/EdFazli)
+- :github: Github: [github.com/EdFazli](https://github.com/EdFazli)
 
 ### ⛓️ Tech Stack  
   
