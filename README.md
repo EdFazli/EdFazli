@@ -3,7 +3,7 @@
 ![AWS](https://img.shields.io/badge/AWS-Associate-yellow)
 ![Terraform](https://img.shields.io/badge/Terraform-Beginner-blueviolet)
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-Beginner-0dc0ef)
-![Packer](https://img.shields.io/badge/Packer-Beginner-cyan)
+![Packer](https://img.shields.io/badge/Packer-Beginner-007db4)
   
 #### Passionate on AWS Cloud and DevOps  
 
