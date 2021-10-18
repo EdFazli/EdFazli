@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there. EdFazli here 👋  
+  
+#### Passionate on AWS Cloud and DevOps  
 
-<!--
-**EdFazli/EdFazli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 I'm an IT Support Engineer (OPS) in Johor, Malaysia
+- 🔥 Currently working for infrastructure automation project on AWS
+- 🌱 Learning in progress - IaC (Terraform) + Go programming
 
-Here are some ideas to get you started:
+#### 📫 Lets get in touch  
+- E-mail: [edfazli92@gmail.com](edfazli92@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack  
+  
+
+| 📂 **Projects** | 🧰 **Tools** |
+|-|-|
+| [![IaC on AWS](https://img.shields.io/?style=plastic&logo=appveyor)] | [![Terraform](https://img.shields.io/?style=plastic&logo=appveyor)](https://www.terraform.io/) |
