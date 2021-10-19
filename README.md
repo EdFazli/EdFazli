@@ -26,7 +26,7 @@
   
 | 📂 **Projects** | 📝 **Description** |
 |-|-|
-| [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/EdFazli) | A Portfolio Website|
+| [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://edfazli.github.io/) | A Portfolio Website|
   
 ### ✨ Certification  
   
