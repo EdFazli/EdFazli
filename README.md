@@ -15,6 +15,7 @@
 #### ✍️ Lets get in touch  
 - 📧 E-mail: [edfazli92@gmail.com](edfazli92@gmail.com)
 - :octocat: Github: [github.com/EdFazli](https://github.com/EdFazli)
+- 💼 Site: https://edfazli.github.io/
 
 ### ⛓️ Tech Stack  
   
@@ -26,7 +27,7 @@
   
 | 📂 **Projects** | 📝 **Description** |
 |-|-|
-| [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://edfazli.github.io/) | A Portfolio Website|
+| [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/EdFazli/EdFazli.github.io) | A Portfolio Website|
   
 ### ✨ Certification  
   
