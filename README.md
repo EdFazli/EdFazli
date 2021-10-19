@@ -29,7 +29,7 @@
 | 📂 **Projects** | 📝 **Description** |
 |-|-|
 | AWS Infastructure Automation | Automate the process of provisioning and maintaining AWS resources with IaC tools |
-| Portfolio | Self portfolio website |
+| Portfolio | A portfolio website |
   
 ### ✨ Certification  
   
