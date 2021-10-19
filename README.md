@@ -5,6 +5,9 @@
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-Beginner-0dc0ef)
 ![Packer](https://img.shields.io/badge/Packer-Beginner-02a8ef)
 ![Vagrant](https://img.shields.io/badge/Vagrant-Beginner-2e71e5)
+![HTML](https://img.shields.io/badge/HTML-Beginner-ff751a)
+![CSS](https://img.shields.io/badge/CSS-Beginner-blue)
+![Javascript](https://img.shields.io/badge/Javascript-Beginner-F1E05A)
   
 #### Passionate on AWS Cloud and DevOps  
 
