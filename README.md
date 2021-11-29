@@ -8,6 +8,7 @@
 ![HTML](https://img.shields.io/badge/HTML-Beginner-ff751a)
 ![CSS](https://img.shields.io/badge/CSS-Beginner-blue)
 ![Javascript](https://img.shields.io/badge/Javascript-Beginner-F1E05A)
+![GO](https://img.shields.io/badge/GO-Beginner-000605)
   
 #### Passionate on AWS Cloud and DevOps  
 
