@@ -12,7 +12,7 @@
   
 #### Passionate on AWS Cloud and DevOps  
 
-- 🏢 IT Support Engineer (OPS) in Johor, Malaysia
+- 🏢 Cloud Engineer at Kuala Lumpur, Malaysia
 - 🔥 Currently working for infrastructure automation project on AWS
 - 🌱 Learning in progress - IaC (Terraform) + GO programming
 
