@@ -13,8 +13,8 @@
 #### Passionate on AWS Cloud and DevOps  
 
 - 🏢 Cloud Engineer at Kuala Lumpur, Malaysia
-- 🔥 Currently working for infrastructure automation project on AWS
-- 🌱 Learning in progress - IaC (Terraform) + GO programming
+- 🔥 Currently working for docker and kubernetes with AWS EKS
+- 🌱 Learning in progress - IaC (Terraform) + GO programming + Docker + Kubernetes
 
 #### ✍️ Lets get in touch  
 - 📧 E-mail: [edfazli92@gmail.com](edfazli92@gmail.com)
