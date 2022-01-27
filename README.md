@@ -9,6 +9,8 @@
 ![CSS](https://img.shields.io/badge/CSS-Beginner-blue)
 ![Javascript](https://img.shields.io/badge/Javascript-Beginner-F1E05A)
 ![GO](https://img.shields.io/badge/GO-Beginner-0dc0ef)
+![Docker](https://img.shields.io/badge/Docker-Beginner-0dc0ef)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-2e71e5)
   
 #### Passionate on AWS Cloud and DevOps  
 
