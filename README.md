@@ -1,6 +1,7 @@
 ## Hi there. EdFazli here 👋  
   
 ![AWS](https://img.shields.io/badge/AWS_Solution_Architect-Associate-yellow)
+![AWS](https://img.shields.io/badge/AWS_SysOps_Administrator-Associate-yellow)
 ![Terraform](https://img.shields.io/badge/Terraform-Beginner-blueviolet)
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-Beginner-0dc0ef)
 ![Packer](https://img.shields.io/badge/Packer-Beginner-02a8ef)
@@ -38,7 +39,7 @@
 | Portfolio | A portfolio website |
 | Provisioning Kubernetes with AWS EKS | Setting up Kubernetes in EKS to be production ready |  
   
-### ✨ Certification  
+### ✨ Certifications  
   
 #### AWS Certified Solutions Architect - Associate  
 Validation Number TVGH4KEDDBV41NCZ
