@@ -42,3 +42,6 @@
   
 #### AWS Certified Solutions Architect - Associate  
 Validation Number TVGH4KEDDBV41NCZ
+
+#### AWS Certified SysOps Administrator - Associate
+Valication Number G2RPKLYBHBBQ1LWX
