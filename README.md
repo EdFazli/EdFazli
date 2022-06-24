@@ -37,7 +37,8 @@
 |-|-|
 | AWS Infastructure Automation | Automate the process of provisioning and maintaining AWS resources with IaC tools |
 | Portfolio | A portfolio website |
-| Provisioning Kubernetes with AWS EKS | Setting up Kubernetes in EKS to be production ready |  
+| Kubernetes with AWS EKS | Setting up Kubernetes in AWS EKS to be production ready |  
+| Container in AWS ECS | Deployed containerized environment using AWS ECS |
   
 ### ✨ Certifications  
   
