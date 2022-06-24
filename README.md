@@ -16,7 +16,7 @@
 #### Passionate on AWS Cloud and DevOps  
 
 - 🏢 Cloud Engineer at Kuala Lumpur, Malaysia
-- 🔥 Currently working for docker and kubernetes with AWS EKS
+- 🔥 Currently working for ECS and kubernetes with AWS EKS
 - 🌱 Learning in progress - IaC (Terraform) + GO programming + Docker + Kubernetes
 
 #### ✍️ Lets get in touch  
