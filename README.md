@@ -22,7 +22,7 @@
 #### ✍️ Lets get in touch  
 - 📧 E-mail: [edfazli92@gmail.com](edfazli92@gmail.com)
 - :octocat: Github: [github.com/EdFazli](https://github.com/EdFazli)
-- 💼 Site: https://edfazli.github.io/
+- 💼 LinkedIn: [Syed Fazli](https://www.linkedin.com/in/syed-fazli-019539100/)
 
 ### ⛓️ Tech Stack  
   
