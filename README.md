@@ -11,7 +11,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-Beginner-F1E05A)
 ![GO](https://img.shields.io/badge/GO-Beginner-0dc0ef)
 ![Docker](https://img.shields.io/badge/Docker-Beginner-0dc0ef)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-2e71e5)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA-2e71e5)
   
 #### Passionate on AWS Cloud and DevOps  
 
@@ -46,4 +46,7 @@
 Validation Number TVGH4KEDDBV41NCZ
 
 #### AWS Certified SysOps Administrator - Associate
-Valication Number G2RPKLYBHBBQ1LWX
+Validation Number G2RPKLYBHBBQ1LWX
+
+#### Certified Kubernetes Administrator
+Certificate ID Number LF-o3fpjr8b77
