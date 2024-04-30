@@ -51,3 +51,6 @@ Validation Number G2RPKLYBHBBQ1LWX
 
 #### Certified Kubernetes Administrator
 Certificate ID Number LF-o3fpjr8b77
+
+#### Certified Devops Practitioner - CCSD
+Certificate ID c20cf0e
