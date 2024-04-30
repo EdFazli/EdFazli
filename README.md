@@ -12,6 +12,7 @@
 ![GO](https://img.shields.io/badge/GO-Beginner-0dc0ef)
 ![Docker](https://img.shields.io/badge/Docker-Beginner-0dc0ef)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA-2e71e5)
+![CCSD](https://img.shields.io/badge/CCSD-Certified_Devops_Practitioner-red)
   
 #### Passionate on AWS Cloud and DevOps  
 
