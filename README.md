@@ -24,7 +24,7 @@
 - 📧 E-mail: [edfazli92@gmail.com](edfazli92@gmail.com)
 - :octocat: Github: [github.com/EdFazli](https://github.com/EdFazli)
 - 💼 LinkedIn: [Syed Fazli](https://www.linkedin.com/in/syed-fazli-019539100/)
-- Personal Site: [Syed Ahmad Fazli](https://EdFazli.github.io)
+- 🌐 Personal Site: [Syed Ahmad Fazli](https://EdFazli.github.io)
 
 ### ⛓️ Tech Stack  
   
