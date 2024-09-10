@@ -56,6 +56,3 @@ Certificate ID Number LF-o3fpjr8b77
 #### Certified Devops Practitioner - CCSD
 Certificate ID c20cf0e
 
-
-
---testdemo---
